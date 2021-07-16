@@ -1,5 +1,7 @@
 # Smirnova Iuliia
 
+![Photo](https://vk.cc/c40S91)
+
 ### Contact information
 
 - Address: Russia, Izhevsk
