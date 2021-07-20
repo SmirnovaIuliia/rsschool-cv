@@ -1,6 +1,7 @@
 html {
     font-family: Geneva, Arial, Helvetica, sans-serif;
     line-height: 25px;
+    color: rgba(255, 255, 255);
 }
 body {
     background-image: url('https://creativo.one/lessons/les5669/01.jpg');
@@ -13,15 +14,15 @@ div, img, header, footer, main {
     
 }
 .main {
-    max-width: 60%;
+    max-width: 55%;
     margin: 50px auto;
-    padding: 30px;
+    padding: 15px;
     background-color: rgba(255, 140, 140, 0.5);
 }
 header, main, footer {
-    background-color: rgba(255, 179, 179, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     padding: 30px;
-    margin: 10px;
+    margin: 15px;
 }
 .image, .name, .date {
     width: 40%;
@@ -32,6 +33,9 @@ header, main, footer {
     position: absolute;
     vertical-align: middle;
     margin-top: 10px;
+}
+a {
+    color: rgba(65, 217, 255);
 }
 #photo {
     height: 200px;
